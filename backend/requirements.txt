@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn[standard]
+httpx
+sqlmodel
+asyncpg
+python-dotenv
+alembic
+openai
+python-multipart
+Jinja2
